@@ -18,7 +18,7 @@ El propósito de este curso es proveer de una introducción a la inferencia esta
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación.
 
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-01.pdf), [[video]](https://youtu.be/6hULYSpcShs)
-- Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-02.pdf)
+- Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-02.pdf), [[video]](https://youtu.be/EVk_U_wV-F8)
 - Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-03.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:

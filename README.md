@@ -21,6 +21,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-02.pdf), [[video]](https://youtu.be/EVk_U_wV-F8)
 - Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-03.pdf), [[video]](https://youtu.be/pibKSGGnfqw)
 - Clase 4: Estadística descriptiva multivariada [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-04.pdf), [[video]](https://youtu.be/y5P8BgQ7ixw)
+- Clase 5: Distribución normal matricial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-05.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:
 

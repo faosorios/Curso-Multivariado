@@ -48,3 +48,10 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:
 - Clase 21: Análisis discriminante II [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-21.pdf), [[video]](https://youtu.be/RBe36Ww9XLU)
 - Clase 22: Análisis de conglomerados I [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-22.pdf), [[video]](https://youtu.be/DLBeT6tgj9M)
 - Clase 23: Análisis de conglomerados II [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-23.pdf), [[video]](https://youtu.be/zQKB9HE8TGk)
+
+## Evaluaciones
+
+Evaluaciones de años anteriores:
+- **2020**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2020.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2020.pdf)
+- **2017**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2017.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2017.pdf)
+- **2011**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2011.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2011.pdf)

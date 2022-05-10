@@ -27,6 +27,9 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 8: Estimación ML para la distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-08.pdf)
 - Clase 9: Estimación sujeto a restricciones sobre la media y covarianza [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-09.pdf)
 - Clase 10: Estimación ML bajo distribuciones de contornos elípticos: modelo dependiente [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-10.pdf)
+- Clase 11: Estimación ML bajo distribuciones de contornos elípticos: modelo independiente [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-11.pdf)
+- Clase 12: Estimación ML bajo distribuciones de mezcla de escala normal [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-12.pdf)
+- Clase 13: Test de hipótesis sobre el vector de medias [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-13.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:
 

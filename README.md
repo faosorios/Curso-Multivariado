@@ -31,6 +31,8 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 12: Estimación ML bajo distribuciones de mezcla de escala normal [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-12.pdf), [[video]](https://youtu.be/sqgNWtavH6s)
 - Clase 13: Test de hipótesis sobre el vector de medias [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-13.pdf), [[video]](https://youtu.be/D49kYjX1BbE)
 - Clase 14: Test de hipótesis sobre la matriz de covarianza [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-14.pdf), [[video]](https://youtu.be/QpStxGE8VCs)
+- Clase 15: Modelo de regresión multivariado [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-15.pdf)
+- Clase 16: Modelo de curvas de crecimiento (GMANOVA) [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-16.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:
 

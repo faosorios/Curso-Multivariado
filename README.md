@@ -60,6 +60,10 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:
 - Clase 22: Análisis de conglomerados I [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-22.pdf), [[video]](https://youtu.be/DLBeT6tgj9M)
 - Clase 23: Análisis de conglomerados II [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-23.pdf), [[video]](https://youtu.be/zQKB9HE8TGk)
 
+## Recomendaciones para escribir un reporte estadístico
+
+- Recomendaciones y breve reporte estadístico [[Sec. 1.6 y 1.7 de Jorgensen (1993)]](https://github.com/faosorios/Curso-Regresion/blob/main/reportes_estadisticos.pdf)
+
 ## Evaluaciones
 
 - **2022**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2022.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_P1-2022.pdf)

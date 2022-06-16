@@ -66,7 +66,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020:
 
 ## Evaluaciones
 
-- **2022**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2022.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_P1-2022.pdf)
+- **2022**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2022.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_P1-2022.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2022.pdf), [[Pauta 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_P2-2022.pdf)
 - **2020**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2020.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2020.pdf)
 - **2017**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2017.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2017.pdf)
 - **2011**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2011.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2011.pdf)

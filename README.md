@@ -15,12 +15,12 @@ El propósito de este curso es proveer de una introducción a la inferencia esta
 
 ## Material de clases
 
-Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación.
+Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [[Lista de Youtube]](https://youtube.com/playlist?list=PL7ZDxVK6zhI9XBEtLmhOO9-3VPZqG9zuM) | [[lista año 2020]](https://youtube.com/playlist?list=PL7ZDxVK6zhI9XnvHZlfk5k5E9MYSRTCiz)
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-01.pdf), [[video]](https://youtu.be/6hULYSpcShs)
-- Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-02.pdf), [[video]](https://youtu.be/EVk_U_wV-F8)
-- Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-03.pdf), [[video]](https://youtu.be/pibKSGGnfqw)
-- Clase 4: Estadística descriptiva multivariada [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-04.pdf), [[video]](https://youtu.be/y5P8BgQ7ixw)
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-01.pdf)
+- Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-02.pdf)
+- Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-03.pdf)
+- Clase 4: Estadística descriptiva multivariada [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-04.pdf)
 - Clase 5: Distribución normal matricial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-05.pdf), [[video]](https://youtu.be/GgYkDZmgenE)
 - Clase 6: Distribución Wishart [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-06.pdf), [[video 1]](https://youtu.be/n3uyP2dokb0), [[video 2]](https://youtu.be/YyD3CCLJ4zg)
 - Clase 7: Distribución T-cuadrado de Hotelling, beta multivariada y Lambda de Wilks [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-07.pdf), [[video]](https://youtu.be/rJI432GOEGU)

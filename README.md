@@ -37,10 +37,10 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 18: Sesión práctica de análisis factorial [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-18.pdf)
 - Clase 19: Método de componentes principales [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-19.pdf)
 - Clase 20: Componentes principales probabilísticas [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-20.pdf)
-- Clase 21: Análisis discriminante I [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-20.pdf), [[video]](https://youtu.be/WBm-QGUrQBc)
-- Clase 22: Análisis discriminante II [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-21.pdf), [[video]](https://youtu.be/RBe36Ww9XLU)
-- Clase 23: Análisis de conglomerados I [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-22.pdf), [[video]](https://youtu.be/DLBeT6tgj9M)
-- Clase 24: Análisis de conglomerados II [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2020/MAT269_slides-23.pdf), [[video]](https://youtu.be/zQKB9HE8TGk)
+- Clase 21: Análisis discriminante [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-20.pdf)
+- Clase 22: Sesión práctica de análisis discriminante [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-21.pdf)
+- Clase 23: Análisis de conglomerados [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-22.pdf)
+- Clase 24: Sesión práctica de análisis de conglomerados [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-23.pdf)
 
 ## Recomendaciones para escribir un reporte estadístico
 

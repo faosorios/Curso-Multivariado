@@ -15,7 +15,7 @@ El propósito de este curso es proveer de una introducción a la inferencia esta
 
 ## Material de clases
 
-Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [[Lista de Youtube]](https://youtube.com/playlist?list=PL7ZDxVK6zhI9XBEtLmhOO9-3VPZqG9zuM) | [[lista año 2020]](https://youtube.com/playlist?list=PL7ZDxVK6zhI9XnvHZlfk5k5E9MYSRTCiz)
+Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a continuación.
 
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-01.pdf)
 - Clase 2: Conceptos preliminares [[slides]](https://github.com/faosorios/Curso-Multivariado/blob/main/diapositivas/2022/MAT269_slides-02.pdf)

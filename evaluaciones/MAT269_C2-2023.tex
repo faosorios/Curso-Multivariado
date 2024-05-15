@@ -1,0 +1,127 @@
+\documentclass[11pt]{exam}
+\usepackage[utf8]{inputenc}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amsfonts,amssymb,amsthm}
+\usepackage{mathtools}
+\usepackage{multicol}
+\usepackage{color,graphics,subfigure}
+\usepackage{listings}
+\usepackage[nolinks]{qrcode} % create QR codes
+\usepackage{hyperref,url}
+\hypersetup{colorlinks, citecolor=blue}
+
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+
+\newcommand{\class}{MAT-269: Análisis Estadístico Multivariado}
+\newcommand{\term}{Semestre 1, 2023}
+\newcommand{\examnum}{Certamen 2. Mayo 17, 2023}
+\newcommand{\examdate}{17/05/2023}
+\newcommand{\timelimit}{Mayo 17, 2023}
+
+\pagestyle{head}
+\firstpageheader{}{}{}
+\runningheader{MAT-269}{Certamen 2\ - P\'agina \thepage\ de \numpages}{\examdate}
+\runningheadrule
+
+% misc
+\makeatletter
+\def\tagform@#1{\maketag@@@{\bf(\ignorespaces#1\unskip\@@italiccorr)}}
+\makeatother
+
+% Math commands
+\DeclareMathOperator{\argmax}{arg\,max}
+\DeclareMathOperator{\argmin}{arg\,min}
+\DeclareMathOperator{\blkdiag}{blc\,diag}
+\DeclareMathOperator{\cor}{cor}
+\DeclareMathOperator{\cov}{cov}
+\DeclareMathOperator{\D}{D}
+\let \d \relax
+\DeclareMathOperator{\d}{d}
+\DeclareMathOperator{\diag}{diag}
+\DeclareMathOperator{\diff}{d}
+\DeclareMathOperator{\E}{E}
+\DeclareMathOperator{\med}{me}
+\let \P \relax
+\DeclareMathOperator{\P}{P}
+\DeclareMathOperator{\rd}{d}
+\DeclareMathOperator{\rk}{rg}
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\var}{var}
+\let \vec \relax
+\DeclareMathOperator{\vec}{vec}
+\def\half{{\textstyle\frac{1}{2}}}
+\def\Rset{\mathbb{R}}
+\newcommand{\what}[1]{\widehat{#1}}
+\newcommand{\bt}[1]{\ensuremath{\mathbf{#1}}} % bold roman
+\newcommand{\bm}[1]{\mbox{\boldmath $#1$}}    % bold math mode
+
+\renewcommand{\figurename}{Figura}
+
+\begin{document}
+
+\noindent
+\begin{tabular*}{\textwidth}{l @{\extracolsep{\fill}} r @{\extracolsep{6pt}} l}
+\textbf{\class} 	& \textbf{Nombre:}	& \makebox[2in]{\hrulefill} \\[.4ex]
+\textbf{\examnum} & \textbf{Profesor:} & Felipe Osorio \\[.4ex]
+\end{tabular*} \\[.25ex]
+
+\noindent
+\rule[2ex]{\textwidth}{1pt}
+
+%-------------------------------------------------------------------------------
+\begin{enumerate}
+
+\item[\bf 1.] Sea $(X_1,Y_1)^\top,\dots,(X_n,Y_n)^\top$ una muestra aleatoria 
+desde $\mathsf{N}_2(\bm{\mu},\bm{\Sigma})$, con 
+\[
+  \bm{\mu} = \begin{pmatrix}
+    \mu_1 \\
+    \mu_2 
+  \end{pmatrix}, \qquad \bm{\Sigma} = \begin{pmatrix}
+    \sigma_{11} & \sigma_{12} \\
+    \sigma_{21} & \sigma_{22}
+  \end{pmatrix}.
+\]
+\begin{itemize}
+  \item[\bf a)] Obtenga los MLE de 
+  \begin{align*}
+    \rho_c & = \frac{2\sigma_{12}}{\sigma_{11} + \sigma_{22} + (\mu_1 - \mu_2)^2}, \qquad \textrm{y} \\
+    \Psi_c & = \P(|X_i - Y_i| \leq c) = \Phi\Big(\frac{c - \delta}{\omega}\Big) 
+    - \Phi\Big(\frac{-c - \delta}{\omega}\Big),
+  \end{align*}
+  con $\delta = \mu_1 - \mu_2$, $\omega^2 = \sigma_{11} + \sigma_{22} - 2\sigma_{12}$.
+
+  \medskip 
+
+  \item[\bf b)] Determine la distribución asintótica de $\what{\rho}_c$.
+  
+  \medskip 
+
+  \emph{Puede ser útil:} Suponga $\bm{T}_n$ un estimador de la forma $\bm{T}_n = \bm{h}(\bm{S}_n)$ 
+  donde la secuencia $\{\bm{S}_n\}$ es asintóticamente normal, esto es,
+  \[
+    \sqrt{n}(\bm{S}_n - \bm{\mu}) \stackrel{\sf D}{\to} \mathsf{N}(\bm{0},\bm{\Sigma}),
+  \]
+  para $\bm{\mu}\in\Rset^k$ y $\bm{\Sigma} > 0$. Si $\partial\bm{h}(\bm{\mu})/\partial
+  \bm{\mu}^\top$ es matriz de rango completo, entonces
+  \[
+    \sqrt{n}(\bm{T}_n - \bm{h}(\bm{\mu})) \stackrel{\sf D}{\to} \mathsf{N}\Big(\bm{0},
+    \Big(\frac{\partial\bm{h}(\bm{\mu})}{\partial\bm{\mu}^\top}\Big)\bm{\Sigma}\,
+    \Big(\frac{\partial\bm{h}(\bm{\mu})}{\partial\bm{\mu}^\top}\Big)^\top\Big).
+  \]
+\end{itemize}
+
+\bigskip
+
+\item[\bf 2.] Suponga $\bm{x}_1,\dots,\bm{x}_n$ una muestra aleatoria desde $\mathsf{N}_p(\bm{\mu},
+  \bm{\Sigma})$ con $\bm{\Sigma}$ definida positiva. Determine el LRT para probar $H_0:\bm{\mu} 
+  = \bm{\mu}_0, \bm{\Sigma} = \bm{\Sigma}_0$, con $\bm{\mu}_0$ y $\bm{\Sigma}_0$ especificados.
+
+\end{enumerate}
+
+\end{document}

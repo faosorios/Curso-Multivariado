@@ -53,3 +53,9 @@ Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a co
 - **2020**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2020.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2020.pdf)
 - **2017**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2017.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2017.pdf)
 - **2011**: [[Certamen 1]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C1-2011.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Multivariado/blob/main/evaluaciones/MAT269_C2-2011.pdf)
+
+## Conjuntos de datos
+- bloodsugar: [[bloodsugar.csv]](https://github.com/faosorios/Curso-Multivariado/blob/main/datasets/bloodsugar.csv), [[bloodsugar.rda]](https://github.com/faosorios/Curso-Multivariado/blob/main/datasets/bloodsugar.rda)
+- examScor: [[examScor.csv]](https://github.com/faosorios/Curso-Multivariado/blob/main/datasets/examScor.csv), [[examScor.rda]](https://github.com/faosorios/Curso-Multivariado/blob/main/datasets/examScor.rda)
+- lifeexp: [[lifeexp.R]](https://github.com/faosorios/Curso-Multivariado/blob/main/datasets/lifeexp.R)
+- pollution: [[pollution.rda]](https://github.com/faosorios/Curso-Multivariado/blob/main/datasets/pollution.rda)

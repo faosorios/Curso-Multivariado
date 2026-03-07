@@ -1,7 +1,7 @@
 # Curso de Análisis Multivariado
 ![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-Multivariado)
 
-Este repositorio contiene el material del curso **MAT-269: Análisis Estadístico Multivariado** (Universidad Técnica Federico Santa María).
+Este repositorio contiene el material del curso **IECD-415: Métodos Multivariados** (Universidad de Valparaiso).
 
 ## Descripción de la asignatura
 
